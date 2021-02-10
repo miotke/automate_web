@@ -1,0 +1,28 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+<p align=center>
+App icon goes here?
+</p>
+
+AutoMate is an iOS app for keeping track of your vehicles maintence records and upcoming services.
+The app is a current work in process and updates will be made as time goes on.
+
+AutoMate has paused in development but should be picking up soon and available on TestFlight! 
+
+# Support
+
+### Bug tracking and feature request
+
+Use the public bug tracker on GitHub, AutoMate Bug Tracker, to report bugs and request features. I think this is 
+the best forum to have conversations around AutoMate. 
+
+Public bug tracker and feature request: [https://github.com/miotke/AutoMate_bugs]()
+
+### Twitter
+
+For now you can find me at my personal Twitter account: [@miotke](https://twitter.com/miotke)
