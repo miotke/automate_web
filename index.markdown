@@ -14,7 +14,7 @@ The app is a current work in process and updates will be made as time goes on.
 
 AutoMate has paused in development but should be picking up soon and available on TestFlight! 
 
-# Support
+# Support and discussion
 
 ### Bug tracking and feature request
 
@@ -22,6 +22,11 @@ Use the public bug tracker on GitHub, AutoMate Bug Tracker, to report bugs and r
 the best forum to have conversations around AutoMate. 
 
 Public bug tracker and feature request: [https://github.com/miotke/AutoMate_bugs]()
+
+### Discussions
+
+I have enabled Discussions on the bug tracker repo. Feel free to post comments there as well! 
+[https://github.com/miotke/AutoMate_bugs/discussions]()
 
 ### Twitter
 
