@@ -16,12 +16,12 @@ AutoMate has paused in development but should be picking up soon and available o
 Use the public bug tracker on GitHub, AutoMate Bug Tracker, to report bugs and request features. I think this is 
 the best forum to have conversations around AutoMate. 
 
-Public bug tracker and feature request: [https://github.com/miotke/AutoMate_bugs]()
+Public bug tracker and feature request: [https://github.com/miotke/AutoMate_bugs](https://github.com/miotke/AutoMate_bugs)
 
 ### Discussions
 
 I have enabled Discussions on the bug tracker repo. Feel free to post comments there as well! 
-[https://github.com/miotke/AutoMate_bugs/discussions]()
+[https://github.com/miotke/AutoMate_bugs/discussions](https://github.com/miotke/AutoMate_bugs/discussions)
 
 ### Twitter
 
