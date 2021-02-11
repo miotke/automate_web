@@ -4,6 +4,11 @@
 
 layout: home
 ---
+
+<p align=center>
+App icon here?
+</p>
+
 AutoMate is an iOS app for keeping track of your vehicles maintence records and upcoming services.
 The app is a current work in process and updates will be made as time goes on.
 
